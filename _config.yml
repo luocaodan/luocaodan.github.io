@@ -80,4 +80,4 @@ theme: next
 deploy:
   type: git
   repo: git@github.com:luocaodan/luocaodan.github.io.git
-  branch: gh-pages
+  branch: master
