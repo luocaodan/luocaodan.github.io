@@ -3,12 +3,12 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: sirga 
-subtitle:
+title: Sirga's Blogs
+subtitle: 各种笔记...
 description:
 keywords:
-author: sirga
-language: zh-CN
+author: Sirga
+language: zh-Hans
 timezone:
 
 # URL
@@ -79,5 +79,5 @@ theme: next
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: git@github.com:luocaodan/blog.git
+  repo: git@github.com:luocaodan/luocaodan.github.io.git
   branch: gh-pages
