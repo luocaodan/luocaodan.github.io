@@ -8,7 +8,7 @@ subtitle: 各种笔记...
 description:
 keywords:
 author: Sirga
-language: zh-Hans
+language: zh-CN
 timezone:
 
 # URL
@@ -74,6 +74,13 @@ pagination_dir: page
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
 theme: next
+
+feed:
+  type: atom
+  path: atom.xml
+  limit: 20
+  hub:
+  content:
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html

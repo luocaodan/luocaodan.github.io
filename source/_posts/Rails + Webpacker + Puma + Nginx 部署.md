@@ -1,6 +1,11 @@
 ---
 title: Rails + Webpacker + Puma + Nginx 部署
 date: 2019-01-01 12:58:12
+categories: Rails
+tags:
+    - Puma
+    - Nginx
+    - Webpacker
 ---
 # 准备
 
