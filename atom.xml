@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Sirga&#39;s Blogs</title>
+  
+  <subtitle>各种笔记...</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2019-04-08T08:50:11.470Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>Sirga</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Docker for Windows 出现 Could not save daemon configuration to C:\ProgramData\Docker\config\daemon.json</title>
+    <link href="http://yoursite.com/2019/04/08/docker-for-windows-error/"/>
+    <id>http://yoursite.com/2019/04/08/docker-for-windows-error/</id>
+    <published>2019-04-08T08:09:46.000Z</published>
+    <updated>2019-04-08T08:50:11.470Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;安装好 Docker for Windows 后，点击 Switch to Windows containers 可能会出现错误：&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/2019/04/08/docker-for-windows-error/2019-04-08-16-42-
+      
+    
+    </summary>
+    
+    
+      <category term="Docker" scheme="http://yoursite.com/tags/Docker/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Rails + Webpacker + Puma + Nginx 部署</title>
+    <link href="http://yoursite.com/2019/01/01/Rails+Webpacker+Puma+Nginx_deploy/"/>
+    <id>http://yoursite.com/2019/01/01/Rails+Webpacker+Puma+Nginx_deploy/</id>
+    <published>2019-01-01T04:58:12.000Z</published>
+    <updated>2019-04-08T08:04:04.420Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;准备&quot;&gt;&lt;a href=&quot;#准备&quot; class=&quot;headerlink&quot; title=&quot;准备&quot;&gt;&lt;/a&gt;准备&lt;/h1&gt;&lt;h2 id=&quot;ssh-登录&quot;&gt;&lt;a href=&quot;#ssh-登录&quot; class=&quot;headerlink&quot; title=&quot;ssh 登录&quot;&gt;&lt;/a&gt;s
+      
+    
+    </summary>
+    
+      <category term="Rails" scheme="http://yoursite.com/categories/Rails/"/>
+    
+    
+      <category term="Puma" scheme="http://yoursite.com/tags/Puma/"/>
+    
+      <category term="Nginx" scheme="http://yoursite.com/tags/Nginx/"/>
+    
+      <category term="Webpacker" scheme="http://yoursite.com/tags/Webpacker/"/>
+    
+  </entry>
+  
+</feed>
